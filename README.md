@@ -24,4 +24,4 @@ You have the right to get screwed by this, but you DON'T have the right to compl
 Licensing
 ---
 
-These scripts are licensed under public domain. Feel free to do whatever you want with them (because putting something like this under whatever license is, on my humble opinion, useless, but waaay to much work for a dozen lines of obvious code)
+These scripts are licensed under public domain. Feel free to do whatever you want with them (because putting something like this under whatever license is not only useless, but waaay to much work for a dozen lines of obvious code)
