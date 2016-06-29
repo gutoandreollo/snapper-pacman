@@ -12,8 +12,6 @@
 # BEWARE that doing this might kill you with the very weapon you're
 # trying to use to protect yourself. You've been warned.
 
-echo "$*" >> /tmp/log
-
 snapper create --type pre \
     --description "Pacman Hook pre-transaction snapshot: $*" \
     --cleanup timeline \
