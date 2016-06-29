@@ -1,0 +1,12 @@
+[Trigger]
+Operation = Install
+Operation = Remove
+Operation = Upgrade
+Type = Package
+Target = *
+
+[Action]
+Description = Snapper post-transaction snapshot
+When = PostTransaction
+Exec = /usr/local/bin/snapper-pacman-hook-post.sh
+Depends = snapper
