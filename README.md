@@ -1,4 +1,4 @@
-pacman-snapper-hook
+pacman-snapper
 ===
 
 Hooks for creating snapper pre- and post- snapshots before and after pacman transactions
