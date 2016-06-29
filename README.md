@@ -15,6 +15,8 @@ Build and install the package, or copy the files over manually
 
 The hooks are set to **fail** in case of error taking the snapshot. If that's not what you want, then either comment the `AbortFail` directive on the hook files or, if you're feeling particularly lazy, just set the last line to `exit 0` on the pre- helper script.
 
+**BEWARE** that doing the above, however, might just kill you with the very weapon you're trying to use to defend yourself. You've been warned.
+
 Rights
 ---
 
